@@ -13,6 +13,7 @@ public class Main {
     private static final String HOST = "localhost";
     private static final int PORT = 4223;
     private static final String UID = "q9m"; // Change to your UID
+    private static final String UID2= "jAY";
 
 
     public static int dist1 = 0;
